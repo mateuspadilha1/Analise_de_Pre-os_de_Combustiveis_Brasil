@@ -8,4 +8,7 @@ Ele consiste numa análise de preços de combustíveis por todo o Brasil. O banc
 Os dados mostram os preços dos combustíveis utilizados no Brasil ao longo dos anos, divididos entre região e estado, além de varias outras ‘features’  interessantes como coeficiente de variação de revenda e de distribuição, desvio padrão de revenda e de distribuição, etc. 
 A motivação da análise desses dados surgiu devido ao contexto em que vivemos no Brasil atualmente, onde o preço dos combustíveis tem tido uma crescente assustadora, e como o modal de transporte mais utilizado no país é o Rodoviário, um aumento no preço dos combustíveis gera também um aumento no preço de todos os produtos provenientes deste meio de transporte.
 
-Espero responder e observar através deste trabalho o preço médio de revenda em cada um dos estados brasileiros, assim como o preço de revenda de cada um dos combustíveis disponíveis, para que com isso possamos comparar com a quantidade de postos que cada um dos estados possui. E então, finalmente, realizar um modelo de predição para o preço da Gasolina.
+Espera-se responder e observar através deste trabalho o preço médio de revenda em cada um dos estados brasileiros, assim como o preço de revenda de cada um dos combustíveis disponíveis, para que com isso possamos comparar com a quantidade de postos que cada um dos estados possui. E então, finalmente, realizar um modelo de predição para o preço da Gasolina.
+
+Como Resultado, obteve-se um R² de aproximadamente 0.9915, um erro médio quadrático (RMSE) de 0.0707 , e um erro médio absoluto (MAE) de 0.0530.
+Então, ao analisar os resultados podemos observar que o modelo explica muito bem os dados e com um erro bastante pequeno, levando à conclusão que o modelo é bastante satisfatório.
